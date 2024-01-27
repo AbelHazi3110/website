@@ -1,0 +1,36 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: #646464;
+}
+
+h1 {
+    color: #000000;
+}
+/* Tag Selector */
+h2 {
+    font-family: fantasy;
+    color: rgb(0, 92, 92);
+    margin-bottom: 1%;
+}
+h3 {
+    color: aquamarine;
+}
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 14px;
+    color: #720000;
+}
+li {
+    font-family: sans-serif;
+    color: #72000062;
+}
+
+/* Class Selector */
+.highlight {
+    background-color: yellow;
+}
+
+/* ID Selector */
+#header {
+    text-align: center;
+}
