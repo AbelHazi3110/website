@@ -8,21 +8,24 @@ h1 {
 }
 /* Tag Selector */
 h2 {
-    font-family: fantasy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(0, 92, 92);
     margin-bottom: 1%;
 }
+
 h3 {
     color: aquamarine;
 }
+
 p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 14px;
     color: #720000;
 }
+
 li {
     font-family: sans-serif;
-    color: #72000062;
+    color: #720000;
 }
 
 /* Class Selector */
